@@ -14,7 +14,7 @@ https://developers.google.com/docs/api/quickstart/python
 3. Activate the virtual environment: `source venv/bin/activate`
 4. Install the requirements: `pip install -r requirements.txt`
 5. Create a credentials.json file in the root of the repo (see above)
-6. Create a uids.csv file in the root of the repo 
+6. Create a uids.csv file in the root of the repo (see below)
 7. Add the report objects to the reports.py file in the GetAllReports function (see below)
 7. Run the script: `python reports.py`
 
